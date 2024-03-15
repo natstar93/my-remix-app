@@ -8,7 +8,6 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-  useFetcher,
   useLoaderData,
   useNavigation,
   useSubmit,
